@@ -17,7 +17,7 @@
 ###Manually install
 *1 - Clone this repository*
 
-    $ git clone git@github.com:afonsopacifer/pumpkin.git
+    $ git clone https://github.com/afonsopacifer/pumpkin.git
 
 *2 - take the pumpkin.tmTheme in sublime-text folder*
 
