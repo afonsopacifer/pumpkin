@@ -1,4 +1,4 @@
-![logo](img/logo.svg)
+![logo](img/logo.png)
 #Pumpkin
 > A halloween theme, inspired on [Github Halloween Themed Contribution Graph.](#credits)
 
@@ -33,10 +33,10 @@ Color |Palette|Hex
 --------|------|------|------
 ![eeeeee](img/eeeeee.png) | Foreground |#eeeeee
 ![ffee4a](img/ffee4a.png) | String |#ffee4a
-![ffc501](img/ffc501.png) | Function name,Function argument,Library class/type|#ffc501
-![fe9600](img/fe9600.png) | Tag name/keywords|#fe9600
+![ffc501](img/ffc501.png) | Function name,Function argument and Library class/type|#ffc501
+![fe9600](img/fe9600.png) | Tag name and keywords|#fe9600
 ![03001c](img/03001c.png) | Background |#03001c
-![1fb8c0](img/1fb8c0.png) | Tag attribute,Library function,Built-in constant |#1fb8c0
+![1fb8c0](img/1fb8c0.png) | Tag attribute,Library function and Built-in constant |#1fb8c0
 ![7E978D](img/7E978D.png) | Comment |#7E978D
 
 ##Contributing
