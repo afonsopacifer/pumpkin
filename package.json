@@ -1,0 +1,7 @@
+{
+  "name": "pumpkin",
+  "theme": "syntax",
+  "description": "A halloween theme inspired by Github Halloween Themed Contribution Graph.",
+  "repository": "https://github.com/afonsopacifer/pumpkin",
+  "license": "MIT"
+}

@@ -20,7 +20,7 @@
 
     $ git clone https://github.com/afonsopacifer/pumpkin.git
 
-*2 - Take the pumpkin.tmTheme in sublime-text folder*
+*2 - Take the pumpkin.tmTheme*
 
 *3 - Open Sublime text and click on Preferences -> Browse Packages*
 
