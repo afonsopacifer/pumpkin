@@ -1,3 +1,4 @@
+![](img/logo.svg)
 #Pumpkin
 > A halloween theme, inspired on [Github Halloween Themed Contribution Graph.](#credits)
 
@@ -42,11 +43,13 @@ Color |Palette|Hex
 You want to help? read the [contributing guide.](contributing.md)
 
 ##Credits
+*Logo by [Rodrigo Mellos](http://rodrigomellos.com/)*
+
 *Project inspired by [@zenorocha's](https://github.com/zenorocha/) [Dracula Theme](https://github.com/zenorocha/dracula-theme) and [@raphamorim's](https://github.com/raphamorim/) [Lucario](https://github.com/raphamorim/lucario).*
 
 *Color palette inspired by:*
 ![Github Contribution](img/github-contribution.png)
-*Github Halloween Themed Contrubuition Graph.*
+*Github Halloween Themed Contribution Graph.*
 
 ##Licence
 [MIT Licence](licence.md) © Afonso Pacifer
