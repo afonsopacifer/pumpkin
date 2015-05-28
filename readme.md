@@ -20,13 +20,13 @@
 
     $ git clone https://github.com/afonsopacifer/pumpkin.git
 
-*2 - take the pumpkin.tmTheme in sublime-text folder*
+*2 - Take the pumpkin.tmTheme in sublime-text folder*
 
-*3 - Open Sublime text and click on Preferences -> Browse Packages**
+*3 - Open Sublime text and click on Preferences -> Browse Packages*
 
-*4 - Then put the pumpkin.tmTheme there**
+*4 - Then put the pumpkin.tmTheme there*
 
-*5 - Now you should be able to select lucario theme by browsing Preferences -> Color Scheme -> pumpkin*
+*5 - Now you should be able to select pumpkin theme by browsing Preferences -> Color Scheme -> pumpkin*
 
 ##Color Palette
 Color |Palette|Hex
