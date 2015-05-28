@@ -1,4 +1,4 @@
-![](img/logo.svg)
+![logo](img/logo.svg)
 #Pumpkin
 > A halloween theme, inspired on [Github Halloween Themed Contribution Graph.](#credits)
 
