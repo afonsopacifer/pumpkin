@@ -13,7 +13,11 @@
 ![sublime text](img/sublime-text.png)
 
 ###Install using Package Control
-*soon*
+If you are using Package Control, you can easily install pumpkin via the Package Control: Install Package. The package theme as Pumpkin Color Scheme in the packages list.
+
+After this you should be able to select Pumpkin color scheme by browsing Preferences -> pumpkin Color Scheme -> Pumpkin
+
+See pumpkin in [package control web page](https://packagecontrol.io/packages/Pumpkin%20Color%20Scheme)
 
 ###Manually install
 *1 - Clone this repository*
@@ -48,7 +52,9 @@ You want to help? read the [contributing guide.](contributing.md)
 *Project inspired by [@zenorocha's](https://github.com/zenorocha/) [Dracula Theme](https://github.com/zenorocha/dracula-theme) and [@raphamorim's](https://github.com/raphamorim/) [Lucario](https://github.com/raphamorim/lucario).*
 
 *Color palette inspired by:*
+
 ![Github Contribution](img/github-contribution.png)
+
 *Github Halloween Themed Contribution Graph.*
 
 ##Licence
