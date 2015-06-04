@@ -4,6 +4,7 @@
 
 ##Table of contents
 - [Sublime Text](#sublime-text)
+- [iTerm](#iterm)
 - [Color Palette](#color-palette)
 - [Contributing](#contributing)
 - [Credits](#credits)
@@ -31,6 +32,25 @@ See pumpkin in [package control web page](https://packagecontrol.io/packages/Pum
 *4 - Then put the pumpkin.tmTheme there*
 
 *5 - Now you should be able to select pumpkin theme by browsing Preferences -> Color Scheme -> pumpkin*
+
+##iTerm
+![iTerm](img/iterm.png)
+
+###Install
+
+*1 - Clone this repository (or use .zip download option)*
+
+    $ git clone https://github.com/afonsopacifer/pumpkin.git
+
+*2 - Go to iTerm2 > Preferences > Profiles > Colors Tab*
+
+*3 - Click Load Presets...*
+
+*4 - Click Import...*
+
+*5 - Select the iterm/Pumpkin.itermcolors file*
+
+*6 - Select the Pumpkin from Load Presets...*
 
 ##Color Palette
 Color |Palette|Hex
