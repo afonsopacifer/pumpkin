@@ -1,7 +1,7 @@
 {
   "name": "pumpkin",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A halloween theme inspired by Github Halloween Themed Contribution Graph.",
   "repository": "https://github.com/afonsopacifer/pumpkin",
   "license": "MIT"
