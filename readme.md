@@ -42,7 +42,7 @@ See pumpkin in [package control web page](https://packagecontrol.io/packages/Pum
 
     $ git clone https://github.com/afonsopacifer/pumpkin.git
 
-*2 - Go to iTerm2 > Preferences > Profiles > Colors Tab*
+*2 - Go to iTerm > Preferences > Profiles > Colors Tab*
 
 *3 - Click Load Presets...*
 
