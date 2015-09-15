@@ -66,6 +66,8 @@ Color |Palette|Hex
 ##Contributing
 You want to help? read the [contributing guide.](contributing.md)
 
+We maintain the organization of the versions through the [Semantic Versioning 2.0.0](http://semver.org/)
+
 ##Credits
 *Logo by [Rodrigo Mellos](http://rodrigomellos.com/)*
 
