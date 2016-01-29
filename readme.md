@@ -79,5 +79,5 @@ We maintain the organization of the versions through the [Semantic Versioning 2.
 
 *Github Halloween Themed Contribution Graph.*
 
-##Licence
-[MIT Licence](licence.md) © Afonso Pacifer
+##License
+[MIT License](license.md) © Afonso Pacifer
