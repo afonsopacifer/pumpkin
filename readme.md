@@ -2,7 +2,7 @@
 #Pumpkin
 > A halloween theme, inspired on [Github Halloween Themed Contribution Graph.](#credits)
 
-##Table of contents
+## Table of contents
 - [Sublime Text](#sublime-text)
 - [iTerm](#iterm)
 - [Color Palette](#color-palette)
@@ -10,17 +10,17 @@
 - [Credits](#credits)
 - [Licence](#licence)
 
-##Sublime Text
+## Sublime Text
 ![sublime text](img/sublime-text.png)
 
-###Install using Package Control
+### Install using Package Control
 If you are using Package Control, you can easily install pumpkin via the Package Control: Install Package. The package theme as Pumpkin Color Scheme in the packages list.
 
 After this you should be able to select Pumpkin color scheme by browsing Preferences -> pumpkin Color Scheme -> Pumpkin
 
 See pumpkin in [package control web page](https://packagecontrol.io/packages/Pumpkin%20Color%20Scheme)
 
-###Manually install
+### Manually install
 *1 - Clone this repository*
 
     $ git clone https://github.com/afonsopacifer/pumpkin.git
@@ -33,10 +33,10 @@ See pumpkin in [package control web page](https://packagecontrol.io/packages/Pum
 
 *5 - Now you should be able to select pumpkin theme by browsing Preferences -> Color Scheme -> pumpkin*
 
-##iTerm
+## iTerm
 ![iTerm](img/iterm.png)
 
-###Install
+### Install
 
 *1 - Clone this repository (or use .zip download option)*
 
@@ -52,7 +52,7 @@ See pumpkin in [package control web page](https://packagecontrol.io/packages/Pum
 
 *6 - Select the Pumpkin from Load Presets...*
 
-##Color Palette
+## Color Palette
 Color |Palette|Hex
 --------|------|------|------
 ![eeeeee](img/eeeeee.png) | Foreground |#eeeeee
@@ -63,12 +63,12 @@ Color |Palette|Hex
 ![1fb8c0](img/1fb8c0.png) | Tag attribute,Library function and Built-in constant |#1fb8c0
 ![7E978D](img/7E978D.png) | Comment |#7E978D
 
-##Contributing
+## Contributing
 You want to help? read the [contributing guide.](contributing.md)
 
 We maintain the organization of the versions through the [Semantic Versioning 2.0.0](http://semver.org/)
 
-##Credits
+## Credits
 *Logo by [Rodrigo Mellos](http://rodrigomellos.com/)*
 
 *Project inspired by [@zenorocha's](https://github.com/zenorocha/) [Dracula Theme](https://github.com/zenorocha/dracula-theme) and [@raphamorim's](https://github.com/raphamorim/) [Lucario](https://github.com/raphamorim/lucario).*
@@ -79,5 +79,5 @@ We maintain the organization of the versions through the [Semantic Versioning 2.
 
 *Github Halloween Themed Contribution Graph.*
 
-##License
+## License
 [MIT License](license.md) © Afonso Pacifer
